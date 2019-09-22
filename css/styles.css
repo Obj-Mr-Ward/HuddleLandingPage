@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  background-image: url("bg-hero-desktop.svg");
+  background-repeat: no-repeat;
+  background-color: rgba(135,206,250, 0.5);
+  background-size: 100% auto;
+}
+
+.butt1 {
+  position: relative;
+  margin-left: 60%;
+}
+
+.butt2 {
+  position: relative;
+  margin-left: 4rem;
+}
+
+.landing-header {
+  padding: 0 0 0 0;
+}
+
+.logo {
+  margin: 2rem 4rem;
+  position: relative;
+
+}
+
+.mock-up {
+float: right;
+margin-right: 4rem;
+}
+
+.top-h1 {
+  position: relative;
+  margin-top: 4rem;
+  margin-left: 4rem;
+  padding-top: 10rem;
+  line-height: 1.5;
+}
+
+.headp {
+  margin-left: 4rem;
+  margin-top: 4rem;
+  line-height: 2;
+}
+
+.myButton {
+	-moz-box-shadow: 0px 2px 6px 1px #a3a3a3;
+	-webkit-box-shadow: 0px 2px 6px 1px #a3a3a3;
+	box-shadow: 0px 2px 6px 1px #a3a3a3;
+	background-color:#f2f2f2;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 80px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-left: 60%;
+}
+.myButton:hover {
+	background-color:#fafafa;
+  margin-left: 60%;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+  margin-left: 60%;
+}
+
+.myButton2 {
+	-moz-box-shadow: 0px 1px 4px 3px #a3a3a3;
+	-webkit-box-shadow: 0px 1px 4px 3px #a3a3a3;
+	box-shadow: 0px 1px 4px 3px #a3a3a3;
+	background-color:#ff66ed;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #ff24ff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-left: 4rem;
+  margin-top: 2rem;
+}
+.myButton2:hover {
+	background-color:#fa7df2;
+  margin-left: 4rem;
+  margin-top: 2rem;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+  margin-left: 4rem;
+  margin-top: 2rem;
+}
