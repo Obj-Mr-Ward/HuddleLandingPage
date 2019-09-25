@@ -45,6 +45,28 @@ margin-right: 4rem;
   line-height: 2;
 }
 
+.grow-together-card {
+  margin-top: ;
+  background-color: white;
+  clear: right;
+  float: left;
+}
+
+.grow-img {
+  float: right;
+  height: 300px;
+  width: 300px;
+  margin-right: 20%
+}
+
+.grow-head {
+  display: inline-block;
+}
+
+.text-wrapper {
+  display: inline-block;
+}
+
 .myButton {
 	-moz-box-shadow: 0px 2px 6px 1px #a3a3a3;
 	-webkit-box-shadow: 0px 2px 6px 1px #a3a3a3;
