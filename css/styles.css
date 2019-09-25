@@ -16,6 +16,11 @@ body {
   margin-left: 4rem;
 }
 
+.cards-container {
+  background-color: white;
+  margin-top: 15rem;
+}
+
 .landing-header {
   padding: 0 0 0 0;
 }
@@ -46,25 +51,37 @@ margin-right: 4rem;
 }
 
 .grow-together-card {
-  margin-top: ;
   background-color: white;
-  clear: right;
-  float: left;
+  clear: both;
+  margin: 18rem 10% 2rem 10%;
+  padding: 10px 0 128px 0;
+  border-style: solid;
+  border-width: medium;
+  border-color: grey;
 }
 
-.grow-img {
+.flowing-conversations-card {
+  background-color: white;
+  clear: both;
+  margin: 0 10% 2rem 10%;
+  padding: 10px 0 128px 0;
+  border-style: solid;
+  border-width: medium;
+  border-color: grey;
+}
+
+.card-img {
+  clear: both;
   float: right;
   height: 300px;
   width: 300px;
   margin-right: 20%
 }
 
-.grow-head {
-  display: inline-block;
-}
-
 .text-wrapper {
   display: inline-block;
+  margin-left: 20%;
+  margin-top: 4rem;
 }
 
 .myButton {
